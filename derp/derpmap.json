@@ -1,0 +1,21 @@
+{
+   "Regions": {
+      "6": {
+         "RegionID": 6,
+         "RegionCode": "blr",
+         "RegionName": "Bangalore",
+         "Latitude": 12.9716,
+         "Longitude": 77.5946,
+         "Nodes": [
+            {
+               "Name": "6a",
+               "RegionID": 6,
+               "HostName": "derp6.tailscale.com",
+               "IPv4": "68.183.90.120",
+               "IPv6": "2400:6180:100:d0::982:d001",
+               "CanPort80": true
+            }
+         ]
+      }
+   }
+}
