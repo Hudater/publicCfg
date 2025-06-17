@@ -1,0 +1,14 @@
+regions:
+  6:
+    regionid: 6
+    regioncode: blr
+    regionname: Bangalore
+    latitude: 12.9716
+    longitude: 77.5946
+    nodes:
+      - name: 6a
+        regionid: 6
+        hostname: derp6.tailscale.com
+        ipv4: 68.183.90.120
+        ipv6: "2400:6180:100:d0::982:d001"
+        canport80: true
