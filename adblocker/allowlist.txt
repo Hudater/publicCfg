@@ -542,3 +542,6 @@
 ||cdn.optimizely.com/^
 ||split.io/^
 ||s.shopify.com/^
+||logs.juspay.in/^
+||bifrost-api.hotstar.com/^
+||www.awin1.com/^
